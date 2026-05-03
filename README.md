@@ -68,8 +68,8 @@ report_generator/
 ### Option 1 — Docker (recommended)
 
 ```bash
-git clone https://github.com/sanket-thethunder/report-generator.git
-cd report-generator
+git clone https://github.com/sanket-thethunder/automated-data-reporting-api.git
+cd automated-data-reporting-api
 docker compose up --build
 ```
 
@@ -82,8 +82,8 @@ Swagger UI at **http://localhost:8000/docs**
 
 ```bash
 # 1. Clone
-git clone https://github.com/sanket-thethunder/report-generator.git
-cd report-generator
+git clone https://github.com/sanket-thethunder/automated-data-reporting-apir.git
+cd automated-data-reporting-api
 
 # 2. Create and activate virtual environment
 python -m venv .venv
