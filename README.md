@@ -1,4 +1,4 @@
-# 📊 Automated Report Generator
+# 📊 Automated Data Reporting Generator
 
 A production-ready **FastAPI** REST service that ingests raw CSV or JSON data, computes descriptive statistics, and generates downloadable **PDF** or **Excel** reports — automatically.
 
