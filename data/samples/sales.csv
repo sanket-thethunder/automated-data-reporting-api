@@ -1,0 +1,11 @@
+product,revenue,units_sold,region,quarter,in_stock
+Widget A,15000,300,North,Q1,true
+Widget B,22000,450,South,Q1,true
+Widget C,8000,160,North,Q2,false
+Widget D,31000,620,East,Q2,true
+Widget E,19500,390,West,Q3,true
+Widget F,27000,540,South,Q3,false
+Widget A,18000,360,North,Q4,true
+Widget B,25500,510,East,Q4,true
+Widget C,9500,190,West,Q1,true
+Widget D,33000,660,North,Q2,false

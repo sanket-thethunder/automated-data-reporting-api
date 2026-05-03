@@ -1,0 +1,10 @@
+[
+  {"employee": "Priya Sharma",   "department": "Engineering", "salary": 95000, "years": 4, "rating": 4.5},
+  {"employee": "Rohan Mehta",    "department": "Marketing",   "salary": 72000, "years": 2, "rating": 3.8},
+  {"employee": "Aisha Khan",     "department": "Engineering", "salary": 105000,"years": 7, "rating": 4.9},
+  {"employee": "Vikram Nair",    "department": "Sales",       "salary": 68000, "years": 1, "rating": 3.5},
+  {"employee": "Sneha Iyer",     "department": "Engineering", "salary": 88000, "years": 3, "rating": 4.2},
+  {"employee": "Arjun Patel",    "department": "HR",          "salary": 61000, "years": 5, "rating": 4.0},
+  {"employee": "Divya Rao",      "department": "Marketing",   "salary": 78000, "years": 6, "rating": 4.3},
+  {"employee": "Karan Singh",    "department": "Sales",       "salary": 74000, "years": 3, "rating": 3.9}
+]
