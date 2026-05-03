@@ -30,7 +30,7 @@ A production-ready **FastAPI** REST service that ingests raw CSV or JSON data, c
 ## 🗂️ Project Structure
 
 ```
-report_generator/
+automated-data-reporting-api /
 ├── app/
 │   ├── main.py                  # FastAPI app, middleware, router registration
 │   ├── core/
